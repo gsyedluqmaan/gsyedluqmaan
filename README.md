@@ -50,20 +50,6 @@ I focus on building scalable full-stack apps, cloud-ready systems, and automatio
 
 ---
 
-## 📊 GitHub Stats  
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GSyedLuqmaan&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=GSyedLuqmaan&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GSyedLuqmaan&theme=dark&hide_border=false&layout=compact)
-
-</div>
-
-
----
-
 ## 📫 Contact  
 - Email: **<gsyedluqmaan@gmail.com>**  
 - LinkedIn: **<https://www.linkedin.com/in/g-syed-luqmaan-544463258/>**  
