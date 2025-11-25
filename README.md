@@ -65,10 +65,8 @@ I focus on building scalable full-stack apps, cloud-ready systems, and automatio
 ---
 
 ## 📫 Contact  
-- Email: **<your-email>**  
-- LinkedIn: **<your-linkedin>**  
-- GitHub: **https://github.com/GSyedLuqmaan**
+- Email: **<gsyedluqmaan@gmail.com>**  
+- LinkedIn: **<https://www.linkedin.com/in/g-syed-luqmaan-544463258/>**  
 
 ---
 
-⭐ *If you want this shorter, more aesthetic, animated, or SDE-focused — I can generate 3–4 more styles too!*  
