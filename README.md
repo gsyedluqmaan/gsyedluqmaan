@@ -1,89 +1,74 @@
-# G Syed Luqmaan 👋
+# Hi there! 👋 I'm G Syed Luqmaan
 
-> Project Manager & Full-Stack Engineer (Intern → Part-time) • BTech • Passionate about building practical web apps, cloud services, and education tech.
+## 💫 About Me
+**Full-Stack Developer | Next.js & MERN | Cloud Computing | SaaS**
 
-[GitHub](https://github.com/<your-github-username>) · [LinkedIn](https://www.linkedin.com/in/<your-linkedin-slug>) · email: your.email@example.com
+I'm a developer with real industry experience during BTech, worked on various projects.
+I focus on building scalable full-stack apps, cloud-ready systems, and automation using modern technologies.
 
----
-
-## 🔭 About Me
-I build pragmatic, production-focused web applications and internal tools. During my internship and part-time work (1.9 years during BTech) I led and implemented multiple systems used in real workplaces — from HRMS and inventory management to an LMS for STEM education. I enjoy working across the full stack, designing clean APIs, and shipping dependable features that help teams operate smoothly.
-
----
-
-## 🚀 Highlights / Roles
-- **Project Manager / Intern Head** — coordinated small teams, assigned daily tasks, reviewed deliverables and merged work using Git/GitHub.
-- **Full-Stack Developer** — built web apps using modern stacks (Next.js, Node/Express, MERN, PHP).
-- **SDE & DevOps practices** — implemented CI/CD workflows for auto-deploying to VPS, worked with Docker & NGINX.
-- **EdTech & Tools** — created GyanKosh LMS for STEM education and integrations (3D Desmos, BigBlueButton).
-- **Security & Research** — worked on a ransomware-detection / cybersecurity education project (hackathon).
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/<your-linkedin>](https://www.linkedin.com/in/g-syed-luqmaan-544463258/)) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](gsyedluqmaan@gmail.com)
 
 ---
 
-## 🧰 Tech & Tools
-- **Languages:** JavaScript (ES6+), TypeScript, Python, PHP
-- **Frontend:** React, Next.js, TailwindCSS, Three.js
-- **Backend:** Node.js (Express), PHP
-- **Databases:** MongoDB, MySQL, Neo4j
-- **DevOps / Infra:** Docker, NGINX, VPS deployments, basic CI/CD pipelines
-- **Cloud:** AWS / GCP / Azure (concepts & hands-on)
-- **Other:** PHPMailer, Dompdf, Poppler, Puppeteer (pptr.dev), BigBlueButton, Desmos API
+## 💻 Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Tools
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-%23007ACC.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### Other Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Dompdf](https://img.shields.io/badge/Dompdf-purple?style=for-the-badge)
 
 ---
 
-## 📁 Notable Projects
+## 📊 GitHub Stats  
+<div align="center">
 
-### HRMS (Human Resource Management System)
-- Built modules: **Leave Management**, **Attendance Tracking**, **Payslip Generator**, **Daily Work Updates**.
-- Features: role-based views, dashboard for current/pending/approved leaves, PDF generation for reports (Dompdf), email notifications (PHPMailer).
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GSyedLuqmaan&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 
-### Inventory Management System
-- Implemented item **check-in / check-out**, supplier & vehicle tracking, invoice/DC handling and material summary reports.
-- Designed UI for modern, minimalist status cards and inventory workflows.
+![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=GSyedLuqmaan&theme=dark&hide_border=false)
 
-### GyanKosh — Learning Management System (LMS)
-- STEM-focused LMS for students & teachers: course management, resource library (books), and interactive content.
-- Integrated 3D visualization (Desmos API) and teacher/student access controls.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GSyedLuqmaan&theme=dark&hide_border=false&layout=compact)
 
-### Ransomware Detection & Cybersecurity EdTech
-- Hackathon project combining detection techniques and an educational interface to teach safe practices.
-- Prototyped visualizations using Three.js for threat flow demos.
+</div>
 
-### Tender Management / Automation
-- Plan to fetch latest government tenders (GeM / KPPP) with Puppeteer automation — architected scraping + display pipeline.
 
 ---
 
-## 📦 What I’m Working On
-- Improving the LMS with richer teacher dashboards and a book library.
-- Building a student course recommendation engine (questionnaire-driven).
-- Exploring production-grade CI/CD on VPS and autoscaling design patterns.
+## 📫 Contact  
+- Email: **<your-email>**  
+- LinkedIn: **<your-linkedin>**  
+- GitHub: **https://github.com/GSyedLuqmaan**
 
 ---
 
-## 🧩 Quick Stats
-- Internship + part-time experience: **~1.9 years** during BTech
-- Comfortable shipping end-to-end features: **Frontend ⇄ Backend ⇄ DB ⇄ Deployment**
-
----
-
-## 💡 How to use this README for your GitHub Profile
-1. Create a new repository named exactly as your GitHub username: ` <your-github-username> `  
-2. Add a `README.md` file to that repo and paste this content. GitHub will display it on your profile page automatically.
-
----
-
-## 📫 Contact
-- GitHub: `https://github.com/<your-github-username>`  
-- LinkedIn: `https://www.linkedin.com/in/<your-linkedin-slug>`  
-- Email: `your.email@example.com`
-
----
-
-## 🤝 Open to
-- Full-time / Internship roles in **SDE, Full-Stack, Cloud**, or **EdTech** product teams.
-- Collaboration on open-source projects and hackathon challenges.
-
----
-
-*Made with ♥ — want this README customized (shorter, more technical, or focused for SDE roles)? Tell me which tone and I’ll tailor it and include bullet metrics/achievements (e.g., users served, deployment frequency, major tech decisions).*  
+⭐ *If you want this shorter, more aesthetic, animated, or SDE-focused — I can generate 3–4 more styles too!*  
