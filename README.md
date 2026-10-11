@@ -6,10 +6,6 @@
 I'm a developer with real industry experience during BTech, worked on various projects.
 I focus on building scalable full-stack apps, cloud-ready systems, and automation using modern technologies.
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/<your-linkedin>](https://www.linkedin.com/in/g-syed-luqmaan-544463258/)) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](gsyedluqmaan@gmail.com)
-
 ---
 
 ## 💻 Tech Stack
